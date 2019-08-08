@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  polymorphismDemo.cpp
+c:\users\jchbe\source\repos\polymorphismdemo\polymorphismdemo\polymorphismdemo.cpp(26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jchbe\source\repos\polymorphismdemo\polymorphismdemo\polymorphismdemo.cpp(35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  polymorphismDemo.vcxproj -> C:\Users\jchbe\source\repos\polymorphismDemo\Debug\polymorphismDemo.exe
